@@ -1,0 +1,6 @@
+c:\users\rcsla\documents\visual studio 2017\Projects\ChessConsole\ChessConsole\bin\Debug\ChessConsole.exe.config
+c:\users\rcsla\documents\visual studio 2017\Projects\ChessConsole\ChessConsole\bin\Debug\ChessConsole.exe
+c:\users\rcsla\documents\visual studio 2017\Projects\ChessConsole\ChessConsole\bin\Debug\ChessConsole.pdb
+c:\users\rcsla\documents\visual studio 2017\Projects\ChessConsole\ChessConsole\obj\Debug\ChessConsole.exe
+c:\users\rcsla\documents\visual studio 2017\Projects\ChessConsole\ChessConsole\obj\Debug\ChessConsole.pdb
+C:\Users\rcsla\documents\visual studio 2017\Projects\ChessConsole\ChessConsole\obj\Debug\ChessConsole.csprojResolveAssemblyReference.cache
